@@ -1,0 +1,24 @@
+{
+  "name": "node-social-network",
+  "version": "0.0.1",
+  "description": "",
+  "main": "app.js",
+  "dependencies" : {
+    "express": "~3.0.0",
+    "jade" : ">= 0.0.1",
+    "mongoose" : ">= 2.6.5"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/ogilvieira/node-social-network.git"
+  },
+  "author": "ogilvieira",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ogilvieira/node-social-network/issues"
+  },
+  "homepage": "https://github.com/ogilvieira/node-social-network#readme"
+}
